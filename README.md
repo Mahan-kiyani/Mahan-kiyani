@@ -8,5 +8,6 @@
 
 ## My Repositories 🗃️
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Git-and-GitHub-Command-Guide&theme=monokai
-)](https://github.com/mahan-kiyani/Git-and-GitHub-Command-Guide)
+| Git & GitHub Command Guide | VS Code Extensions |
+|:---:|:---:|
+| [![Git Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Git-and-GitHub-Command-Guide&theme=monokai)](https://github.com/mahan-kiyani/Git-and-GitHub-Command-Guide) | [![VS Code Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=vscode_extensions_Learn&theme=monokai)](https://github.com/mahan-kiyani/vscode_extensions_Learn) |
