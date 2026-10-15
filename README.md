@@ -1,5 +1,5 @@
 ## Who am I ?
-My name is Mahan Kiani, and I am passionate about technology, programming, and software engineering.
+My name is Mahan Kiyani, and I am passionate about technology, programming, and software engineering.
 
 At the beginning of my journey, driven by my strong interest in emerging technologies and creating valuable products, I decided to pursue a degree in Software Engineering to gain a deeper understanding of the computer science world and develop high-value products for various markets.
 
