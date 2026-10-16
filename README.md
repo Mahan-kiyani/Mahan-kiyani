@@ -13,8 +13,9 @@ On my GitHub profile, you can explore some of the projects and work I have compl
 
 
 ## Commonly Used Programming Languages 📑
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mahan-kiyani&theme=monokai)](https://github.com/stats-organization/github-stats-extended)
 
+| [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mahan-kiyani&theme=monokai)](https://github.com/stats-organization/github-stats-extended) | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) |
+|:---|:---|
 
 ## My Repositories 🗃️
 
