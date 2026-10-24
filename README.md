@@ -28,15 +28,3 @@ Feel free to explore my repositories and follow my journey!
 
 ## 🥷 Skills 
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=for-the-badge&logo=googlesheets&logoColor=white) 
-
-
-## 🗃️ My Repositories 
-
-| Git & GitHub Command Guide | Student-attendance |
-|:---:|:---:|
-| [![Git Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Git-and-GitHub-Command-Guide&theme=dracula)](https://github.com/mahan-kiyani/Git-and-GitHub-Command-Guide) | [![Student-attendance Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Student-attendance&theme=dracula)](https://github.com/Mahan-kiyani/Student-attendance) |
-
-| Spammer with Python| VS Code Extensions |
-|:---:|:---:|
-| [![spammer Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Spammer-for-annoying-people&theme=dracula)](https://github.com/Mahan-kiyani/Spammer-for-annoying-people) |[![VS Code Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=vscode_extensions_Learn&theme=dracula)](https://github.com/mahan-kiyani/vscode_extensions_Learn) |
-
