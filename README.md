@@ -32,11 +32,11 @@ Feel free to explore my repositories and follow my journey!
 
 ## 🗃️ My Repositories 
 
-| Git & GitHub Command Guide | VS Code Extensions |
+| Git & GitHub Command Guide | Student-attendance |
 |:---:|:---:|
-| [![Git Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Git-and-GitHub-Command-Guide&theme=dracula)](https://github.com/mahan-kiyani/Git-and-GitHub-Command-Guide) | [![VS Code Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=vscode_extensions_Learn&theme=dracula)](https://github.com/mahan-kiyani/vscode_extensions_Learn) |
+| [![Git Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Git-and-GitHub-Command-Guide&theme=dracula)](https://github.com/mahan-kiyani/Git-and-GitHub-Command-Guide) | [![Student-attendance Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Student-attendance&theme=dracula)](https://github.com/Mahan-kiyani/Student-attendance) |
 
-| Spammer with Python| Queue Data Structure |
+| Spammer with Python| VS Code Extensions |
 |:---:|:---:|
-| [![Git Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Spammer-for-annoying-people&theme=dracula)](https://github.com/Mahan-kiyani/Spammer-for-annoying-people) | [![VS Code Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Queue-index-Mahan&theme=dracula)](https://github.com/Mahan-kiyani/Queue-index-Mahan) |
+| [![spammer Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Spammer-for-annoying-people&theme=dracula)](https://github.com/Mahan-kiyani/Spammer-for-annoying-people) |[![VS Code Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=vscode_extensions_Learn&theme=dracula)](https://github.com/mahan-kiyani/vscode_extensions_Learn) |
 
