@@ -18,12 +18,12 @@ To turn what I learn into practical projects, strengthen my technical skills, an
 Feel free to explore my repositories and follow my journey!
 
 ## 🧑‍💻 My Stats 
-![my stats](https://github-stats-extended.vercel.app/api?username=Mahan-kiyani&contributions,all_time_contribs,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&show_icons=true&theme=monokai)
+![my stats](https://github-stats-extended.vercel.app/api?username=Mahan-kiyani&contributions,all_time_contribs,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&show_icons=true&theme=dracula)
 
 
 ## 📑 Commonly Used Programming Languages 
 
-| [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mahan-kiyani&theme=monokai)](https://github.com/stats-organization/github-stats-extended) | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  |
+| [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Mahan-kiyani&theme=dracula)](https://github.com/stats-organization/github-stats-extended) | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  |
 |:---|:---|
 
 ## 🥷 Skills 
@@ -34,9 +34,9 @@ Feel free to explore my repositories and follow my journey!
 
 | Git & GitHub Command Guide | VS Code Extensions |
 |:---:|:---:|
-| [![Git Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Git-and-GitHub-Command-Guide&theme=monokai)](https://github.com/mahan-kiyani/Git-and-GitHub-Command-Guide) | [![VS Code Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=vscode_extensions_Learn&theme=monokai)](https://github.com/mahan-kiyani/vscode_extensions_Learn) |
+| [![Git Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Git-and-GitHub-Command-Guide&theme=dracula)](https://github.com/mahan-kiyani/Git-and-GitHub-Command-Guide) | [![VS Code Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=vscode_extensions_Learn&theme=dracula)](https://github.com/mahan-kiyani/vscode_extensions_Learn) |
 
 | Spammer with Python| Queue Data Structure |
 |:---:|:---:|
-| [![Git Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Spammer-for-annoying-people&theme=monokai)](https://github.com/Mahan-kiyani/Spammer-for-annoying-people) | [![VS Code Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Queue-index-Mahan&theme=monokai)](https://github.com/Mahan-kiyani/Queue-index-Mahan) |
+| [![Git Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Spammer-for-annoying-people&theme=dracula)](https://github.com/Mahan-kiyani/Spammer-for-annoying-people) | [![VS Code Repo](https://github-stats-extended.vercel.app/api/pin/?username=mahan-kiyani&repo=Queue-index-Mahan&theme=dracula)](https://github.com/Mahan-kiyani/Queue-index-Mahan) |
 
